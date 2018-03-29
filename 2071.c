@@ -26,7 +26,7 @@ int main()
 		    {
 		        scanf("%lf",&c[j]);
 		    }
-		    printf("%.2wlf\n",find_max(c , m));
+		    printf("%.2lf\n",find_max(c , m));
 		}	
 	}
 	return 0;
